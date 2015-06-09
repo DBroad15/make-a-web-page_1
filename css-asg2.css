@@ -1,0 +1,15 @@
+.block {
+	color: green;
+}
+.block {
+	margin-top: 45px;
+}
+.point {
+	color: blue;
+}
+.point {
+	font-weight: bold;
+}
+.paper {
+	margin-left: 25%;
+}
